@@ -16,6 +16,17 @@ Build out python project scaffold:
 * command-line-tool
 * Micriservice
 
+1. Cretae a virtualenv
+   virtualenv ~/.venv
+2. edit my `vim ~/.bashrc`, 'SHIFT + G' go to bottom, O insert at the bottom
+    ESC, :wq
+
+which python
+git status
+git add *
+
+
+
 
 ### AWS CloudShell
 
